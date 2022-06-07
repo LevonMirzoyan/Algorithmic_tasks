@@ -1,4 +1,4 @@
-Алгоритмические задачи на структуры данных с сайта CODEFORCES
+Алгоритмические задачи на структуры данных с сайта CODEFORCES 
 
 ![image](https://user-images.githubusercontent.com/83034426/172416216-136ffc4a-e573-4f58-a40c-24c05df769fb.png)
 
